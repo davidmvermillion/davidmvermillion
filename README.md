@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to find me:
+    - :bulb: [Medium articles](https://medium.com/@davidmvermillion)
+    - 
+
 <!--
 **davidmvermillion/davidmvermillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
