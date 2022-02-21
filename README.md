@@ -9,7 +9,7 @@
     - :flight_departure: [Twitter](https://twitter.com/VermillionDM)
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmvermillion&hide=html)](https://github.com/davidmvermillion/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmvermillion&hide=html,Mathematica)](https://github.com/davidmvermillion/github-readme-stats)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davidmvermillion/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@davidmvermillion/0" alt="Recent Article 0">
 
