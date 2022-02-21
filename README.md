@@ -10,6 +10,7 @@
     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmvermillion)](https://github.com/davidmvermillion/github-readme-stats)
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davidmvermillion/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@davidmvermillion/0" alt="Recent Article 0">
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidmvermillion&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/davidmvermillion/github-readme-stats)
