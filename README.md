@@ -6,15 +6,19 @@
     - :bulb: [Medium articles](https://medium.com/@davidmvermillion)
     - :globe_with_meridians: [My website](https://davidmvermillion.com)
     - :office: [LinkedIn](https://www.linkedin.com/in/davidmvermillion/)
-    - :flight_departure: [Twitter](https://twitter.com/VermillionDM)
+    - :flight_departure: [X](https://x.com/VermillionDM)
+    - 🎬 [YouTube](https://youtube.com/@SpaceDataGuy)
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmvermillion&hide=html,Mathematica,Rebol)](https://github.com/davidmvermillion/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmvermillion&hide=html,Rebol)](https://github.com/davidmvermillion/github-readme-stats)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davidmvermillion/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@davidmvermillion/0" alt="Recent Article 0">
 
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=davidmvermillion&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/davidmvermillion/github-readme-stats)
+
 <!--
+
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=davidmvermillion&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/davidmvermillion/github-readme-stats)
+
 **davidmvermillion/davidmvermillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
