@@ -5,9 +5,6 @@
 - 📫 How to find me:
     - :bulb: [Medium articles](https://medium.com/@davidmvermillion)
     - :globe_with_meridians: [My website](https://davidmvermillion.com)
-    - :office: [LinkedIn](https://www.linkedin.com/in/davidmvermillion/)
-    - :flight_departure: [X](https://x.com/VermillionDM)
-    - 🎬 [YouTube](https://youtube.com/@SpaceDataGuy)
     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmvermillion&hide=html,Rebol)](https://github.com/davidmvermillion/github-readme-stats)
